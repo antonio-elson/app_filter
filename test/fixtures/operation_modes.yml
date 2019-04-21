@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  operation: MyString
+  reg_open: one
+  reg_closed: one
+  filter: one
+  cdt: one
+  note: MyText
+
+two:
+  operation: MyString
+  reg_open: two
+  reg_closed: two
+  filter: two
+  cdt: two
+  note: MyText

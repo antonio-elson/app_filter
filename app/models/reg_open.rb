@@ -1,0 +1,3 @@
+class RegOpen < ApplicationRecord
+    
+end

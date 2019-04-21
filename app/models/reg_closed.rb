@@ -1,0 +1,3 @@
+class RegClosed < ApplicationRecord
+    
+end
